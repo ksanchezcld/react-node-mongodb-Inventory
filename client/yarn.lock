@@ -3756,9 +3756,10 @@ redux-logger@^3.0.6:
   dependencies:
     deep-diff "^0.3.5"
 
-redux-persist@^4.8.3:
-  version "4.8.3"
-  resolved "https://registry.yarnpkg.com/redux-persist/-/redux-persist-4.8.3.tgz#fbad95e7582483635c91a3dd83da4789e7a09107"
+redux-persist@^4.10.2:
+  version "4.10.2"
+  resolved "https://registry.yarnpkg.com/redux-persist/-/redux-persist-4.10.2.tgz#8efdb16cfe882c521a78a6d0bfdfef2437f49f96"
+  integrity sha512-U+e0ieMGC69Zr72929iJW40dEld7Mflh6mu0eJtVMLGfMq/aJqjxUM1hzyUWMR1VUyAEEdPHuQmeq5ti9krIgg==
   dependencies:
     json-stringify-safe "^5.0.1"
     lodash "^4.17.4"
